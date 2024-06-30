@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm syed fardeen jeelani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src='https://i.giphy.com/aDS8SjVtS3Mwo.webp' />
+<p align="center"><img src='https://i.giphy.com/aDS8SjVtS3Mwo.webp' /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfardeenjeelani&label=Profile%20views&color=0e75b6&style=flat" alt="syedfardeenjeelani" /> </p>
 
