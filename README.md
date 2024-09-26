@@ -1,20 +1,19 @@
-
-    <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
-
-<pre style="background-color: #000000; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<pre style="background-color: #61dafb; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 <code>
-const vellaDevloper = {
+const  lifeDetails = {
     name: "Syed Fardeen Jeelani",
     role: "Frontend Developer",
     location: "India",
-    currentProject: "Need suggestion",
-    learning: "Svelte & Node",
+    learning: "Svelte & Backend in js",
     askMeAbout: [
-        "How not to code like a developer"
+        "404 tips on how to be better than AI"
     ],
-    contact: "syedfardeenjeelani13@gmail.com",
-    hoursPracticed: 6,
-    funFact: `I'm also known as 'Hacker ${this.hoursPracticed > 5 ? 'for a Reason' : 'Dead'}' on YouTube!`
+    contact: [{
+    Email:"syedfardeenjeelani13@gmail.com",
+    Linkedin:"https://www.linkedin.com/in/syed-fardeen-61132b246/"
+    }],
+    hoursToPracticeEveryDay: 6,
+    funFact: `I'm also known as '${this.hoursToPracticeEveryDay > 5 ? 'Hacker for a Reason' : 'Dead'}' on YouTube!`
 };
 
 console.log("Welcome to my profile!");
@@ -39,6 +38,7 @@ console.log("Welcome to my profile!");
 - React Hook Form
 - React Context API
 - Redux
+- ...
 </code>
 </pre>
 
@@ -57,11 +57,11 @@ console.log("Welcome to my profile!");
 
 function checkHackerStatus(hours) {
     const status = hours > 5 ? "Hacker for a Reason" : "Dead";
-    return `With ${hours} hours of practice, I am  ${status}.`;
+    return status;
 }
 
 
-console.log(checkHackerStatus(vellaDevloper.hoursPracticed));
+console.log(checkHackerStatus(vellaDevloper.hoursToPracticeEveryDay));
 
 
 </code>
@@ -72,7 +72,7 @@ console.log(checkHackerStatus(vellaDevloper.hoursPracticed));
 if (you.like(myProfile)) {
     followMe();
 } else {
-    console.log(`give tips for me to improve`);
+    console.log(`Tips Needed`);
 }
 </code>
 </pre>
