@@ -1,7 +1,11 @@
 <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
-<h3 align="center" style="color: #f5f5f5;">A passionate frontend developer from India</h3>
+<h3 align="center" style="color: #dcdcdc;">A passionate frontend developer from India</h3>
 
-<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<p align="center">
+    <img src="https://i.giphy.com/aDS8SjVtS3Mwo.webp" alt="Coding gif" />
+</p>
+
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 15px; border-radius: 5px;">
 <code>
 const vellaDevloper = {
     name: "Syed Fardeen Jeelani",
@@ -20,8 +24,8 @@ console.log("Welcome to my profile!");
 </code>
 </pre>
 
-## 🚀 Skills
-<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<h2 style="color: #dcdcdc;">🚀 Skills</h2>
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 15px; border-radius: 5px;">
 <code>
 - HTML
 - CSS
@@ -41,17 +45,19 @@ console.log("Welcome to my profile!");
 </code>
 </pre>
 
-## 🔗 Connect with me
-<a href="https://www.youtube.com/c/hacker%20for%20a%20reason" style="color: #61dafb;">YouTube: Hacker for a Reason</a>
-
-## 📊 GitHub Stats
+<h2 style="color: #dcdcdc;">🔗 Connect with me</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark" style="border-radius: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark" style="border-radius: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark" style="border-radius: 5px;"/>
+    <a href="https://www.youtube.com/c/hacker%20for%20a%20reason" style="color: #61dafb;">YouTube: Hacker for a Reason</a>
 </p>
 
-<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<h2 style="color: #dcdcdc;">📊 GitHub Stats</h2>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark" alt="GitHub Streak" />
+</p>
+
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 15px; border-radius: 5px;">
 <code>
 if (you.like(myProfile)) {
     followMe();
