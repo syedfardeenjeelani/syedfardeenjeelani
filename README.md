@@ -1,32 +1,28 @@
+<h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
+<h3 align="center" style="color: #f5f5f5;">A passionate frontend developer from India</h3>
 
-![Header Image](https://i.giphy.com/aDS8SjVtS3Mwo.webp)
-
-# Syed Fardeen Jeelani
-### A passionate frontend developer from India
-
-```javascript
-const developer = {
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<code>
+const vellaDevloper = {
     name: "Syed Fardeen Jeelani",
     role: "Frontend Developer",
     location: "India",
-    currentProject: "HFAR",
-    learning: "Svelte",
+    currentProject: "Need suggestion",
+    learning: "Svelte & Node",
     askMeAbout: [
-        "HTML", 
-        "CSS", 
-        "JavaScript", 
-        "React", 
-        "Next.js"
+        "How not to code like a developer"
     ],
     contact: "syedfardeenjeelani13@gmail.com",
-    funFact: "I'm also known as 'Hacker for a Reason' on YouTube!"
+    funFact: `I'm also known as 'Hacker ${practice.length > 6 ? 'a' : 'no'} for Reason' on YouTube!`
 };
 
 console.log("Welcome to my profile!");
-```
+</code>
+</pre>
 
 ## 🚀 Skills
-```plaintext
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<code>
 - HTML
 - CSS
 - JavaScript
@@ -42,35 +38,27 @@ console.log("Welcome to my profile!");
 - React Hook Form
 - React Context API
 - Redux
-```
+</code>
+</pre>
 
 ## 🔗 Connect with me
-[YouTube: Hacker for a Reason](https://www.youtube.com/c/hacker%20for%20a%20reason)
+<a href="https://www.youtube.com/c/hacker%20for%20a%20reason" style="color: #61dafb;">YouTube: Hacker for a Reason</a>
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark" style="border-radius: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark" style="border-radius: 5px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark" style="border-radius: 5px;"/>
+</p>
 
-```javascript
+<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+<code>
 if (you.like(myProfile)) {
     followMe();
+} else {
+    console.log(`give tips for me to improve`);
 }
-```
-
-<style>
-    body {
-        background-color: #1e1e1e; /* VS Code dark background */
-        color: #ffffff; /* White text for better contrast */
-    }
-    h1, h3 {
-        color: #61dafb; /* Light blue for headers */
-    }
-    code {
-        background-color: #282c34; /* Darker background for code blocks */
-        color: #abb2bf; /* Light gray text for code */
-    }
-</style>
-```
+</code>
+</pre>
 
 
