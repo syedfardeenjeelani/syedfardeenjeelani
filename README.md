@@ -1,4 +1,4 @@
-To create a GitHub README that resembles the HTML you provided while being compatible with Markdown, you can use Markdown's formatting capabilities. GitHub does not support raw HTML in README files, but you can achieve a similar visual style using Markdown along with some images and badges. Here's a simplified version of your HTML converted to Markdown:
+
 
 ```markdown
 # Syed Fardeen Jeelani
