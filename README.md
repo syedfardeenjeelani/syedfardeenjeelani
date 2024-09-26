@@ -1,4 +1,4 @@
-<body style="color: black;">
+<body style="color: #0000;">
     <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
 <h3 align="center" style="color: #f5f5f5;">A passionate frontend developer from India</h3>
 
