@@ -1,8 +1,7 @@
-<body style="color: #0000;">
-    <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
-<h3 align="center" style="color: #f5f5f5;">A passionate frontend developer from India</h3>
 
-<pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+    <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
+
+<pre style="background-color: #000000; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 <code>
 const vellaDevloper = {
     name: "Syed Fardeen Jeelani",
@@ -77,6 +76,6 @@ if (you.like(myProfile)) {
 }
 </code>
 </pre>
-</body>
+
 
 
