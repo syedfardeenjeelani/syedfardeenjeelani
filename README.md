@@ -1,29 +1,162 @@
-<h1 align="center">Hi 👋, I'm syed fardeen jeelani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"><img src='https://i.giphy.com/aDS8SjVtS3Mwo.webp' /></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syed Fardeen Jeelani - Frontend Developer</title>
+    <style>
+        body {
+            font-family: 'Consolas', 'Courier New', monospace;
+            background-color: #1e1e1e;
+            color: #d4d4d4;
+            line-height: 1.6;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #252526;
+            border: 1px solid #3e3e42;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.4);
+        }
+        h1, h2, h3 {
+            color: #569cd6;
+        }
+        .comment {
+            color: #608b4e;
+        }
+        .string {
+            color: #ce9178;
+        }
+        .number {
+            color: #b5cea8;
+        }
+        .keyword {
+            color: #c586c0;
+        }
+        .function {
+            color: #dcdcaa;
+        }
+        .variable {
+            color: #9cdcfe;
+        }
+        .center {
+            text-align: center;
+        }
+        .badge {
+            display: inline-block;
+            padding: 3px 7px;
+            background-color: #3e3e42;
+            color: #d4d4d4;
+            border-radius: 3px;
+            margin: 2px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .line-numbers {
+            color: #858585;
+            padding-right: 15px;
+            text-align: right;
+            user-select: none;
+        }
+        .code-block {
+            display: flex;
+            background-color: #1e1e1e;
+            border: 1px solid #3e3e42;
+            border-radius: 5px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        .code-content {
+            padding: 10px;
+            flex-grow: 1;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        a {
+            color: #4ec9b0;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="center">Syed Fardeen Jeelani</h1>
+        <h3 class="center comment">// A passionate frontend developer from India</h3>
+        
+        <div class="center">
+            <img src="https://i.giphy.com/aDS8SjVtS3Mwo.webp" alt="Coding gif" />
+        </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfardeenjeelani&label=Profile%20views&color=0e75b6&style=flat" alt="syedfardeenjeelani" /> </p>
+        <div class="code-block">
+            <div class="line-numbers">
+                1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12
+            </div>
+            <div class="code-content">
+                <span class="keyword">const</span> <span class="variable">developer</span> = {<br>
+                &nbsp;&nbsp;<span class="variable">name</span>: <span class="string">"Syed Fardeen Jeelani"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">role</span>: <span class="string">"Frontend Developer"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">location</span>: <span class="string">"India"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">currentProject</span>: <span class="string">"HFAR"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">learning</span>: <span class="string">"Svelte"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">askMeAbout</span>: [<span class="string">"HTML"</span>, <span class="string">"CSS"</span>, <span class="string">"JavaScript"</span>, <span class="string">"React"</span>, <span class="string">"Next.js"</span>],<br>
+                &nbsp;&nbsp;<span class="variable">contact</span>: <span class="string">"syedfardeenjeelani13@gmail.com"</span>,<br>
+                &nbsp;&nbsp;<span class="variable">funFact</span>: <span class="string">"I'm also known as 'Hacker for a Reason' on YouTube!"</span><br>
+                };<br>
+                <br>
+                <span class="function">console</span>.<span class="function">log</span>(<span class="string">"Welcome to my profile!"</span>);
+            </div>
+        </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedfardeenjeelani" alt="syedfardeenjeelani" /></a> </p>
+        <h2>🚀 Skills</h2>
+        <div class="skills">
+            <span class="badge">HTML</span>
+            <span class="badge">CSS</span>
+            <span class="badge">JavaScript</span>
+            <span class="badge">Tailwind CSS</span>
+            <span class="badge">React.js</span>
+            <span class="badge">TypeScript</span>
+            <span class="badge">Next.js</span>
+            <span class="badge">Firebase</span>
+            <span class="badge">Swiper.js</span>
+            <span class="badge">Formik</span>
+            <span class="badge">TanStack Query</span>
+            <span class="badge">Bootstrap</span>
+            <span class="badge">React Hook Form</span>
+            <span class="badge">React Context API</span>
+            <span class="badge">Redux</span>
+        </div>
 
-- 🔭 I’m currently working on **HFAR**
+        <h2>🔗 Connect with me</h2>
+        <p>
+            <a href="https://www.youtube.com/c/hacker for a reason" target="_blank">YouTube: Hacker for a Reason</a>
+        </p>
 
-- 🌱 I’m currently learning **svelte,**
+        <h2>📊 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark" alt="GitHub Streak" />
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, React.js, TypeScript, Next.js, Firebase, Swiper.js, Formik, TanStack Query, Bootstrap, React Hook Form, React Context API, Redux**
-
-- 📫 How to reach me **syedfardeenjeelani13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/hacker for a reason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hacker for a reason" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact" alt="syedfardeenjeelani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en" alt="syedfardeenjeelani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&" alt="syedfardeenjeelani" /></p>
+        <div class="code-block">
+            <div class="line-numbers">1<br>2<br>3</div>
+            <div class="code-content">
+                <span class="keyword">if</span> (<span class="variable">you</span>.<span class="function">like</span>(<span class="variable">myProfile</span>)) {<br>
+                &nbsp;&nbsp;<span class="function">followMe</span>();<br>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>
