@@ -1,4 +1,5 @@
 <pre style="background-color: #61dafb; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+    console.log("Welcome to my profile!");
 <code>
 const  lifeDetails = {
     name: "Syed Fardeen Jeelani",
@@ -6,17 +7,17 @@ const  lifeDetails = {
     location: "India",
     learning: "Svelte & Backend in js",
     askMeAbout: [
-        "404 tips on how to be better than AI"
+        "404 tips on how to not let AI take your job"
     ],
     contact: [{
     Email:"syedfardeenjeelani13@gmail.com",
-    Linkedin:"https://www.linkedin.com/in/syed-fardeen-61132b246/"
+    },{
+    Linkedin:Linkedin:"https://www.linkedin.com/in/syed-fardeen-61132b246/"
     }],
     hoursToPracticeEveryDay: 6,
     funFact: `I'm also known as '${this.hoursToPracticeEveryDay > 5 ? 'Hacker for a Reason' : 'Dead'}' on YouTube!`
 };
 
-console.log("Welcome to my profile!");
 </code>
 </pre>
 
