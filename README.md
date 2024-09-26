@@ -48,9 +48,11 @@ const  lifeDetails = {
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark" style="border-radius: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark" style="border-radius: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark" style="border-radius: 5px;"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=syedfardeenjeelani&show_icons=true&locale=en&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfardeenjeelani&show_icons=true&locale=en&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedfardeenjeelani&theme=dark)
+
 </p>
 
 <pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
