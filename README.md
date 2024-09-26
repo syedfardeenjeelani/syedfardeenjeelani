@@ -1,4 +1,5 @@
-<h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
+<body style="color: black;">
+    <h1 align="center" style="color: #61dafb;">Syed Fardeen Jeelani</h1>
 <h3 align="center" style="color: #f5f5f5;">A passionate frontend developer from India</h3>
 
 <pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
@@ -14,7 +15,7 @@ const vellaDevloper = {
     ],
     contact: "syedfardeenjeelani13@gmail.com",
     hoursPracticed: 6,
-    funFact: `I'm also known as 'Hacker ${this.hoursPracticed > 5 ? 'for a Reason' : 'not yet a hacker'}' on YouTube!`
+    funFact: `I'm also known as 'Hacker ${this.hoursPracticed > 5 ? 'for a Reason' : 'Dead'}' on YouTube!`
 };
 
 console.log("Welcome to my profile!");
@@ -54,19 +55,16 @@ console.log("Welcome to my profile!");
 
 <pre style="background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
 <code>
-// Function to check if I am a hacker based on hours practiced
+
 function checkHackerStatus(hours) {
-    const status = hours > 5 ? "Hacker for a Reason" : "Aspiring Developer";
-    return `With ${hours} hours of practice, I am a ${status}.`;
+    const status = hours > 5 ? "Hacker for a Reason" : "Dead";
+    return `With ${hours} hours of practice, I am  ${status}.`;
 }
 
-// Logging my hacker status
+
 console.log(checkHackerStatus(vellaDevloper.hoursPracticed));
 
-// Using a library to randomly generate coding challenges
-const challenges = ["Build a website", "Create an API", "Develop a game", "Contribute to open-source"];
-const randomChallenge = challenges[Math.floor(Math.random() * challenges.length)];
-console.log(`Today's challenge: ${randomChallenge}`);
+
 </code>
 </pre>
 
@@ -79,5 +77,6 @@ if (you.like(myProfile)) {
 }
 </code>
 </pre>
+</body>
 
 
